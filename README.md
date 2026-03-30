@@ -1,20 +1,23 @@
-<!-- README-AI-SIGNATURE:20260329025333 -->
+<!-- README-AI-SIGNATURE:20260330025620 -->
 # happy-birthday
 
-Welcome to the **happy-birthday** project! This repository contains a delightful web application designed to celebrate birthdays with fun animations, music, and interactive elements. Built primarily with JavaScript, it aims to bring joy and excitement to birthday celebrations.
+Welcome to the **happy-birthday** project! This repository contains a delightful web application designed to celebrate birthdays with engaging visuals and cheerful music. Built primarily with JavaScript, it offers a fun and interactive experience for users.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![HTML5](https://img.shields.io/badge/HTML5-5C2D91.svg) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![HTML5](https://img.shields.io/badge/HTML5-5E5E5E.svg?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-3C3C3C.svg?style=flat&logo=css3)
 
 ## ✨ Key Features
 
-### 🎉 Interactive Animations
-- Enjoy lively animations with snowflakes and balloons to enhance the birthday experience.
+### 🎉 Interactive Celebrations
+- Engaging animations and visuals to enhance the birthday experience.
+- Background music that plays to create a festive atmosphere.
 
-### 🎶 Background Music
-- Celebrate with a cheerful birthday tune that plays in the background, creating a festive atmosphere.
+### 🎈 Customizable Elements
+- Includes various images and graphics such as balloons and cakes.
+- Users can modify styles and scripts to personalize their birthday greetings.
 
-### 🎂 Customizable Design
-- The application includes various images and styles, allowing for a personalized touch to each birthday celebration.
+### 🎵 Fun Audio
+- Background music file included to set a celebratory tone.
+- Easy integration of additional audio files for more customization.
 
 ## 🏗️ Project Structure
 
@@ -56,28 +59,30 @@ happy-birthday/
 
 ## 🚀 Getting Started
 
-To get started with the **happy-birthday** project, clone the repository and open the `Happy Birthday.html` file in your web browser:
+To get started with the **happy-birthday** project, clone the repository and open the `index.html` file in your web browser:
 
 ```bash
 git clone https://github.com/MoaazMustafa/happy-birthday.git
 cd happy-birthday
-open "Happy Birthday.html"
+open index.html
 ```
 
 ## 📜 Scripts
 
-The project utilizes the following scripts for functionality:
+The project includes several JavaScript files for functionality. You can run the following commands to include necessary libraries:
 
-- **jQuery**: For DOM manipulation and event handling.
-- **Typed.js**: For creating dynamic text animations.
-- **Wow.js**: For triggering animations on scroll.
+```bash
+# Include jQuery
+<script src="js/jquery.js"></script>
 
-Ensure you have the necessary dependencies included in your HTML file.
+# Include custom scripts
+<script src="js/script.js"></script>
+```
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. For any issues, feel free to open an issue in the repository.
+Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure that your code adheres to the project's coding standards.
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
