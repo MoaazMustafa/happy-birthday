@@ -1,23 +1,20 @@
-<!-- README-AI-SIGNATURE:20260330025620 -->
+<!-- README-AI-SIGNATURE:20260331024920 -->
 # happy-birthday
 
-Welcome to the **happy-birthday** project! This repository contains a delightful web application designed to celebrate birthdays with engaging visuals and cheerful music. Built primarily with JavaScript, it offers a fun and interactive experience for users.
+Welcome to the **happy-birthday** project! This repository contains a delightful web application designed to celebrate birthdays with fun animations, music, and interactive elements. Built primarily with JavaScript, it offers a vibrant user experience that can be easily customized for any birthday occasion.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![HTML5](https://img.shields.io/badge/HTML5-5E5E5E.svg?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-3C3C3C.svg?style=flat&logo=css3)
+![GitHub repo size](https://img.shields.io/github/repo-size/MoaazMustafa/happy-birthday) ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## ✨ Key Features
 
-### 🎉 Interactive Celebrations
-- Engaging animations and visuals to enhance the birthday experience.
-- Background music that plays to create a festive atmosphere.
+### 🎉 Interactive Animations
+- Enjoy lively animations with snowflakes and balloons that enhance the birthday celebration experience.
 
-### 🎈 Customizable Elements
-- Includes various images and graphics such as balloons and cakes.
-- Users can modify styles and scripts to personalize their birthday greetings.
+### 🎶 Background Music
+- Includes a cheerful birthday music track that plays automatically to set the festive mood.
 
-### 🎵 Fun Audio
-- Background music file included to set a celebratory tone.
-- Easy integration of additional audio files for more customization.
+### 🎂 Customizable Elements
+- Easily modify images and styles to personalize the birthday greeting for any individual.
 
 ## 🏗️ Project Structure
 
@@ -69,19 +66,16 @@ open index.html
 
 ## 📜 Scripts
 
-The project includes several JavaScript files for functionality. You can run the following commands to include necessary libraries:
+This project utilizes the following scripts for functionality:
 
-```bash
-# Include jQuery
-<script src="js/jquery.js"></script>
+- jQuery for DOM manipulation: `js/jquery.js`
+- Custom scripts for animations and interactions: `js/script.js`
 
-# Include custom scripts
-<script src="js/script.js"></script>
-```
+To run the project, simply open the `index.html` file in a web browser. No additional setup is required.
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure that your code adheres to the project's coding standards.
+Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
 
 ## 📄 License
 
