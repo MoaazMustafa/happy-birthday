@@ -1,4 +1,4 @@
-<!-- README-AI-SIGNATURE:20260402024539 -->
+<!-- README-AI-SIGNATURE:20260403024752 -->
 # happy-birthday
 
 Welcome to the **happy-birthday** project! This repository contains a delightful web application designed to celebrate birthdays with fun animations, music, and interactive elements. Built primarily with JavaScript, it offers a vibrant user experience that can be easily customized for any birthday occasion.
@@ -11,7 +11,7 @@ Welcome to the **happy-birthday** project! This repository contains a delightful
 - Enjoy lively animations with snowflakes and balloons that enhance the birthday celebration experience.
 
 ### 🎶 Background Music
-- A cheerful birthday tune plays in the background, setting a festive mood for users.
+- Includes a cheerful birthday music track that plays automatically to set the festive mood.
 
 ### 🎂 Customizable Elements
 - Easily modify images and styles to personalize the birthday greeting for any individual.
@@ -68,15 +68,14 @@ open index.html
 
 This project utilizes the following scripts for functionality:
 
-- **jQuery**: For DOM manipulation and event handling.
-- **Typed.js**: For creating dynamic text animations.
-- **Wow.js**: For revealing animations on scroll.
+- jQuery for DOM manipulation and event handling.
+- Custom JavaScript files for animations and interactions.
 
-Ensure you have the necessary dependencies included in your HTML files as shown in the project structure.
+To run the project, simply open the `index.html` file in a web browser. No additional setup is required.
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. For any issues, feel free to open an issue in the repository.
+Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
 
 ## 📄 License
 
